@@ -1,6 +1,6 @@
 # NikeLand - Nike Clone WebPage
 
-[https://nikeLand-apuddu.netlify.app](https://nikeLand-apuddu.netlify.app)
+[https://nikeland-apuddu.netlify.app](https://nikeland-apuddu.netlify.app)
 
 ## Description
 
